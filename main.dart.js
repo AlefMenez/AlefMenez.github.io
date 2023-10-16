@@ -38657,7 +38657,7 @@ A.tz.prototype={
 ae(){return new A.JA(A.a(["assets/img_1.png","assets/img_2.png","assets/img_3.png"],t.s),B.k)}}
 A.JA.prototype={
 M(a){var s,r,q,p=null,o=t.D,n=A.PF(A.hZ(A.a([A.tD("assets/logo.png",p,p,p)],o),B.L,B.aH,B.S)),m=t.w,l=A.iA(p,p,p,new A.dI(p,p,p,p,p,new A.oi(B.vT,B.cc,B.dh,A.a([A.T(255,128,17,17),B.i],t.t_),p,p),B.b0),300,p,p,A.bM(a,p,m).w.a.a),k=A.bM(a,p,m).w
-k=A.eX(A.GH("As melhores escolhas para o seu Lar",A.ji(p,p,A.T(255,128,17,17),p,p,p,p,p,"Limelight",p,p,45,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p),p,k.a.a*0.5)
+k=A.eX(A.GH("As melhores escolhas para o seu Lar",A.ji(p,p,A.T(255,128,17,17),p,p,p,p,p,"Limelight",p,p,40,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p),p,k.a.a*0.5)
 s=A.bM(a,p,m).w
 r=A.c1(0,0,2)
 q=$.a8
